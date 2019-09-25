@@ -107,3 +107,8 @@ h3.heading{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: white;    
 }
+
+.footer{
+    margin-bottom: 0;
+    background-color: #000000;
+}
