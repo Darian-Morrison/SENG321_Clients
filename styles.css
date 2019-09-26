@@ -108,6 +108,11 @@ h3.heading{
     color: white;    
 }
 
+.plain{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;  
+}
+
 .footer{
     margin-bottom: 0;
     background-color: #000000;
